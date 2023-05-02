@@ -2,6 +2,13 @@
 Promo code spammer written in python using selenium.
 ! **NOT JUST FOR UBER EATS, WORKS WITH MOST OTHER FOOD DELIVERY WEBSITES TOO.** !
 Written by me (mrbndzs) with help from telegram group.
+---------------------------------------------------
+
+**I have received dms that the uber eats bot starts slowly, I will fix this eventually, however for now, allow the program a few minutes to run.**
+
+**This slowness is due to inefficiency in the selenium package.**
+
+Any other issues, contact **scabberlab#8376** on discord.
 
 ---------------------------------------------------
 # About
