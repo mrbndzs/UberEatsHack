@@ -10,7 +10,7 @@ Written by me (mrbndzs) with help from telegram group.
 
 When on your uber eats/ deliveroo/ grubhub / other food delivery app checkout page, run the program and select the target % off you want. 
 
-It should detect automatically what site you are on, and spams promo codes in the format of that specific site, at a rate of >200 codes per second.
+It should detect automatically what site you are on, and spam promo codes in the format of that specific site, at a rate of >200 codes per second.
 
 If it finds an unused promo code that gives you a % off the same as or higher than what you want, it is automatically applied so you can continue onto checkout and buy food for cheap!
 
@@ -24,11 +24,11 @@ Here are the hit rates for the apps I've tested (given that about 200 codes are 
 
 # Is this bannable?
 
-As long as you aren't using a brand new account and have some orders on your account, you will be able to apply promo code and order food successfully and avoid a ban.
+As long as you aren't using a brand new account and have some orders on your account, you will be able to apply promo codes and order food successfully while avoiding a ban.
 
-However, using this too often is obviously very suspicious. No one would have more than 10 promo codes for 80% off that were sent as compensation for failed orders unless they're doing something not legit.
+However, using this too often is obviously very suspicious. No one would have more than 10 promo codes for 80% off that were sent as personal compensation from uber eats orders they haven't even bought unless they're doing something not legit.
 
-Also, given that this only works because uber eats does not track who uses the promo codes they give out to certain people (to my knowledge). If they begin to do so, this would not work anymore, or at least the hit rate would go down as you are only able to use public codes.
+Also, given that this only works because uber eats does not track who uses the promo codes they give out to certain people, if they begin to do so, this would not work anymore, or at least the hit rate would go down as you are only able to use public codes.
 
 # How can I support this project?
 
@@ -38,7 +38,7 @@ LTC : LQS15V7Tb3t9umiZBaEHC17t3zCCTWiehs
 
 BTC : bc1qz8332xuwql0j0hsulp0mdg78d4ezth833q9mm8
 
-XMR **referred)** 48PJxynBRWg52FR1xFCq1D9cPFejqTTW493RwZL5AxKLiLTFjDXgMo5RofwmNapaAJVLEGws3sGfwKsxaJein8QoBDLkYn7
+XMR **(preferred)** 48PJxynBRWg52FR1xFCq1D9cPFejqTTW493RwZL5AxKLiLTFjDXgMo5RofwmNapaAJVLEGws3sGfwKsxaJein8QoBDLkYn7
 
 You can also help contribute to this project by contacting me to be given access to the private repo containing the src. 
 
